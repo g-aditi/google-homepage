@@ -8,4 +8,4 @@ Even so, this was extremely fun and insightful, and if you haven't tried it yet,
 
 ~Aditi
 
-PS: You can see it work [here](https://g-aditi.github.io/google-homepage/)! 
+PS: You can see it work [here] (https://g-aditi.github.io/google-homepage/)! 
